@@ -1,5 +1,5 @@
 # DynamicAccentColor
-This projects achieves programmatic accent coloring(4 bit RGB) in Android applications. It has 2 parts
+This projects achieves programmatic accent coloring(12 bit RGB) in Android applications. It has 2 parts
 * Style XML Generator - A python script to generate a style xml file with all allowed accent colors(4 bit RGB).
 * A Java utility - A java class to get the style resource id given ARGB color.
 
